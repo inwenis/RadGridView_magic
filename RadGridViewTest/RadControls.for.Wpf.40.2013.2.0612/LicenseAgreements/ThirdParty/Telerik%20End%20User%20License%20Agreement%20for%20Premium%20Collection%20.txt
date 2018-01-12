@@ -1,0 +1,8 @@
+Telerik End User License Agreement for Premium Collection
+
+(Last Updated March 16, 2011)
+
+The TELERIK Premium Collection is a suite of products containing RadControls for ASP.NET AJAX, RadControls for WinForms, RadControls for Silverlight, RadControls for WPF, Telerik Reporting, Telerik Open Access ORM, Telerik Extensions for ASP.NET MVC, Telerik JustCode, and RadControls for Windows Phone. 
+
+To read the entire license please visit 
+http://www.telerik.com/purchase/license-agreement/telerik-premium-collection.aspx
